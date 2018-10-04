@@ -1,3 +1,2 @@
 # HI
-my first REPOSITORY!!!
-it feels great hahaahh!
+my first REPOSITORY
